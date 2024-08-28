@@ -1,0 +1,59 @@
+.backdrop-img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%;
+  height: 565PX;
+  opacity: 50%;
+
+}
+
+.page-backdrop {
+  background-color: black;
+  justify-content: center;
+}
+
+.cont-card {
+  height: 550px;
+  margin-top: 5%;
+  font-size: 25px;
+  color: #222222;
+  padding: 10px;
+  margin-bottom: 5%;
+}
+
+.fb {
+  text-decoration: none;
+  color: #222222;
+}
+
+.page-head {
+  position: absolute;
+  top: 50%;
+  text-align: center;
+  color: white;
+  font-size: 50px;
+  font-weight: 800;
+  display: block;
+  width: 100%;
+  height: 100%;
+
+}
+
+.arrow-top {
+  display: block;
+  margin-top: 2.5%;
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%;
+  height: 100%;
+  text-align: center;
+}
+
+.bxs-chevron-down {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  font-size: 35px;
+  text-align: center;
+}
